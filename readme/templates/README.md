@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2022 [█████████████▁▁▁▁▁▁▁] 66.55%</code></pre>
-
+<pre><code>{{ format(now, '%Y') }} [{{ percentage_bar }}] {{ format(year_percentage * 100, '.2f') }}%</code></pre>
+{{ '' }}
