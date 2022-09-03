@@ -32,7 +32,6 @@ import sys
 from dateutil import relativedelta, tz
 from dateutil.tz import UTC
 
-from readme import fractal, lunar_phase, now
 from readme.templates import get_template
 
 
