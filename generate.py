@@ -75,6 +75,5 @@ with open(OUTPUT_README, 'w', encoding='utf-8') as output:
         hour_emoji=hour_emoji,
         now=UTC_NOW,
         percentage_bar=percentage_bar,
-        phase_emoji=phase_emoji,
         year_percentage=year_percentage,
     ))
