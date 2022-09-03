@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Android projects and Web development.
+- 🔭 ~~I’m currently working on Android projects and Web development.~~
 - 🌱 I’m currently learning Python, SQL, Kotlin and JS.
-- 👯 I’m looking to collaborate on Android projects.
-- 🤔 I’m looking for help with maintaining and improving my projects.
+- 👯 ~~I’m looking to collaborate on Android projects.~~
+- 🤔 ~~I’m looking for help with maintaining and improving my projects.~~
 - 💬 Ask me about relevant stuff.
 - 📫 How to reach me: discord (recommended), twitter(rarely used) and linkedin (official work only).
 - 😄 Pronouns: Prefer not to say.
