@@ -1,6 +1,3 @@
-
-IntelliJ IDEA
-PyCharm 
 # =*- coding: utf-8 -*-
 
 
