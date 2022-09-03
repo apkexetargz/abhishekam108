@@ -1,4 +1,3 @@
-theme: 
-cotes2020/jekyll-theme-chirpy
+remote_theme: cotes2020/jekyll-theme-chirpy
 github:
   repository_url: "https://github.com/digiby/digiby"
