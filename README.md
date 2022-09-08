@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 <summary>&#x23f2; Year percentage bar</summary>
-<pre><code>2022 [█████████████▁▁▁▁▁▁▁] 67.54%</code></pre>
+<pre><code>2022 [█████████████▁▁▁▁▁▁▁] 68.73%</code></pre>
