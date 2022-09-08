@@ -1,12 +1,11 @@
-### Hi there 👋
+<h1 align="center">
+hello, world 👋
+</h1>
 
 <!--
-**digiby/digiby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 ~~I’m currently working on Android, iOS projects and Web development.~~
-- 👯 ~~I’m looking to collaborate on Android projects.~~
-- 🤔 ~~I’m looking for help with maintaining and improving my projects.~~
-
+- 🔭 I’m currently working on Android, iOS projects and Web development.
+- 👯 I’m looking to collaborate on Android projects.
+- 🤔 I’m looking for help with maintaining and improving my projects.
 -->
 - 🌱 I’m currently learning C, Python, SQL, Java, Kotlin and JS.
 - 💬 Ask me cookie lovingly, you shall get it.
@@ -14,12 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: he/they
 - ⚡ Fact: You are a bunch of atoms working together and it took 4+ Billion years to make you. You are valuable, hang in there champ.
 
-<summary>&#x23f2; Year percentage bar</summary>
+<summary> &#x23f2; Year percentage bar </summary>
 <pre><code>{{ format(now, '%Y') }} [{{ percentage_bar }}] {{ format(year_percentage * 100, '.2f') }}%</code></pre>
 {{ '' }}
 
 
-<h2>
+<h2 align="center">
 Contact
 </h2>
 
