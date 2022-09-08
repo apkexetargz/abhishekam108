@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning C, Python, SQL, Java, Kotlin and JS.
 - 💬 Ask me cookie lovingly, you shall get it.
-- 📫 How to reach me: [#Contact](Contact)
+- 📫 How to reach me: [#Contact](https://github.com/apkexetargz#Contact)
 - 😄 Pronouns: he/they
 - ⚡ Fact: You are a bunch of atoms working together and it took 4+ Billion years to make you. You are valuable, hang in there champ.
 
