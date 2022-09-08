@@ -47,3 +47,15 @@ Contact
 <td><a href="https://www.linkedin.com/in/apkexetargz">@apkexetargz</a> (official works)</td>
 </tr>
 </table>
+
+<h2>Devices</h2>
+
+***
+
+<!-- Styles are ignored in README rendering on GitHub profile but work on GitHub Pages -->
+- <img src="https://cdn.5ht2.me/android.svg" width="18" style="vertical-align: middle"> `vivo` - Hardened to an extent for Privacy
+- <img src="https://api.iconify.design/logos:fedora.svg" width="18" style="vertical-align: middle"> `fedora` - Daily driver [Immuntable SilverBlue]
+- <img src="https://api.iconify.design/logos:archlinux.svg" width="18" style="vertical-align: middle"> `arch` - VM [For Latest greatest stuff]
+- <img src="https://api.iconify.design/logos:ubuntu.svg" width="18" style="vertical-align: middle"> `ubuntu` - Server host
+
+***
