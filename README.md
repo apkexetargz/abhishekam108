@@ -14,7 +14,7 @@ hello, world 👋
 - ⚡ Fact: You are a bunch of atoms working together and it took 4+ Billion years to make you. You are valuable, hang in there champ.
 
 <summary> &#x23f2; Year percentage bar </summary>
-<pre><code>2022 [██████████████▁▁▁▁▁▁] 71.08%</code></pre>
+<pre><code>2022 [██████████████▁▁▁▁▁▁] 71.09%</code></pre>
 
 
 
@@ -56,5 +56,9 @@ Contact
 - <img src="https://api.iconify.design/logos:fedora.svg" width="18" style="vertical-align: middle"> `fedora` - Daily driver [Immuntable SilverBlue]
 - <img src="https://api.iconify.design/logos:archlinux.svg" width="18" style="vertical-align: middle"> `arch` - VM [For Latest greatest stuff]
 - <img src="https://api.iconify.design/logos:ubuntu.svg" width="18" style="vertical-align: middle"> `ubuntu` - Server host
+
+***
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apkexetargz&show_icons=true&locale=en" alt="apkexetargz" /></p>
 
 ***
