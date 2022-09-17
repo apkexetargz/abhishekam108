@@ -58,3 +58,7 @@ Contact
 - <img src="https://api.iconify.design/logos:ubuntu.svg" width="18" style="vertical-align: middle"> `ubuntu` - Server host
 
 ***
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apkexetargz&show_icons=true&locale=en" alt="apkexetargz" /></p>
+
+***
