@@ -14,7 +14,7 @@ hello, world 👋
 - ⚡ Fact: You are a bunch of atoms working together and it took 4+ Billion years to make you. You are valuable, hang in there champ.
 
 <summary> &#x23f2; Year percentage bar </summary>
-<pre><code>2022 [██████████████▁▁▁▁▁▁] 71.09%</code></pre>
+<pre><code>2022 [███████████████▁▁▁▁▁] 78.82%</code></pre>
 
 
 
