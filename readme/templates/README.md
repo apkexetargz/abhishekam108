@@ -6,28 +6,35 @@ Namaskāraḥ
 </h1>
 
 -  Programming Languages:  C and Go. 
--  Human Languages: Kannada, Hindi and English.
+-  Human Languages: ಕನ್ನಡ, हिन्दी and English.
 -  Sexual Orientation: Male (XY chromosomes).
-- Communication: <table>
+-  Communication: <table>
 <tr>
 <th>Twitter</th>
-<td><a href="https://twitter.com/apkexetargz">@apkexetargz</a> (recommended)</td>
+<td><a href="https://twitter.com/apkexetargz">@apkexetargz</a> (for casual relevant discussion)</td>
 </tr>
 <tr>
 <th>LinkedIn</th>
-<td><a href="https://www.linkedin.com/in/apkexetargz">@apkexetargz</a> (official works)</td>
+<td><a href="https://www.linkedin.com/in/apkexetargz">@apkexetargz</a> (for job or business discussion)</td>
 </tr>
 </table>
+
+
+<!-- Styles are ignored in README rendering on GitHub profile but work on GitHub Pages -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=apkexetargz&show_icons=true&locale=en" alt="apkexetargz" />
 
 <summary> Present Year: </summary>
 <pre><code>{{ format(now, '%Y') }} [{{ percentage_bar }}] {{ format(year_percentage * 100, '.2f') }}%</code></pre>
 {{ '' }}
 
-<!-- Styles are ignored in README rendering on GitHub profile but work on GitHub Pages -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=apkexetargz&show_icons=true&locale=en" alt="apkexetargz" />
+
+<p> 
+Devices I own:
 
 <img src="https://api.iconify.design/flat-color-icons/android-os.svg" width="18" style="vertical-align: middle"> `android` - Mobile Phone
 
-<img src="https://api.iconify.design/logos:archlinux.svg" width="18" style="vertical-align: middle"> `arch linux` - Daily driver
+<img src="https://api.iconify.design/logos:archlinux.svg" width="18" style="vertical-align: middle"> `arch linux` - Personal Computer
 
-<img src="https://api.iconify.design/file-icons/openbsd.svg" width="18" style="vertical-align: middle"> `openbsd` - VM
+<img src="https://api.iconify.design/file-icons/openbsd.svg" width="18" style="vertical-align: middle"> `openbsd` - Virtual Machine 
+
+</p>
